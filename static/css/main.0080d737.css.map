@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.0080d737.css","mappings":"AAAA,MAEE,eACF,CAEA,cAJE,4BAMF","sources":["App.css"],"sourcesContent":["#text {\n  font-family: 'Zilla Slab', serif;\n  font-weight: bold;\n}\n\n#author {\n  font-family: 'Zilla Slab', serif;\n}\n"],"names":[],"sourceRoot":""}
